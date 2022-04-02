@@ -1,12 +1,12 @@
 # SCA-Cloud-School-Application
 
-Steps to Implement Tasks
+Steps Taken to Implement the Assessment.
 
 Created a react app and run using the script below
 
-npx create-react-app myscapp:dev2
-Cd myapp
-npm start
+-npx create-react-app myscapp:dev2
+-Cd myapp
+-npm start
 
 
 
