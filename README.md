@@ -42,7 +42,7 @@ c: pushed to a new branch "feature" and Merge the feature branch to the Start br
 
     git checkout -b feature
     git add .
-    git commit -m "pushing to start feature"
+    git commit -m "pushing to feature branch"
     git push -u origin feature
     git checkout Start
     git merge feature
