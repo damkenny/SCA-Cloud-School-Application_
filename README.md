@@ -4,7 +4,7 @@ Steps Taken to Implement the Assessment.
 
 Step 1: Created a react app and run using the script below
 
-    npx create-react-app myscapp:dev2
+    npx create-react-app mynewscapp:dev2
     cd myapp
     npm start
     
