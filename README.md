@@ -10,7 +10,7 @@ Step 1: Created a react app and run using the script below
     
 ![image](https://user-images.githubusercontent.com/50354600/161383838-4ceddfeb-92b7-428f-be6d-db47ce8e9226.png)
 
-Step 2: Dockerize the application using docker build commands below to test the docker image created and container.
+Step 2: Dockerize the application using docker commands below to test the docker image created and run container.
 
       docker build --tag mynewscapp:dev2  .
       docker image ls
