@@ -18,7 +18,7 @@ Step 2: Dockerized the application using docker commands below to test the docke
       docker ps
 ![image](https://user-images.githubusercontent.com/50354600/161384562-23e5b7ad-d20d-4061-835c-e16b335841d5.png)
 
-Step 3: Pushed to Github Repository with the below Git commands into a branch called "Start".
+Step 3: Pushed to GitHub Repository with the below git commands into a branch called "Start".
 
     git checkout -b Start
     git add .
