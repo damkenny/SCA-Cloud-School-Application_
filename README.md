@@ -10,7 +10,7 @@ Step 1: Created a react app and run using the script below
     
 ![image](https://user-images.githubusercontent.com/50354600/161383838-4ceddfeb-92b7-428f-be6d-db47ce8e9226.png)
 
-Step 2: Dockerize the application using docker commands below to test the docker image created and run container.
+Step 2: Dockerized the application using docker commands below to test the docker image created and run container.
 
       docker build --tag mynewscapp:dev2  .
       docker image ls
@@ -18,7 +18,7 @@ Step 2: Dockerize the application using docker commands below to test the docker
       docker ps
 ![image](https://user-images.githubusercontent.com/50354600/161384562-23e5b7ad-d20d-4061-835c-e16b335841d5.png)
 
-Step 3: Pushing to Github Repository with the below Git commands into a branch called "Start".
+Step 3: Pushed to Github Repository with the below Git commands into a branch called "Start".
 
     git checkout -b Start
     git add .
@@ -47,7 +47,7 @@ c: pushed to a new branch "feature" and Merge the feature branch to the Start br
     git checkout Start
     git merge feature
     
-  Step 5: Pushing to dockerhub repository.
+  Step 5: Pushed to dockerhub repository.
   
       docker login
       docker images
