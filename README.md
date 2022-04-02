@@ -4,7 +4,7 @@ Steps Taken to Implement the Assessment.
 
 Step 1: Created a react app and run using the script below
 
-    npx create-react-app mynewscapp:dev2
+    npx create-react-app newscapp:dev2
     cd myapp
     npm start
     
@@ -12,7 +12,7 @@ Step 1: Created a react app and run using the script below
 
 Step 2: Dockerized the application using docker commands below to test the docker image created and run container.
 
-      docker build --tag mynewscapp:dev2  .
+      docker build --tag newscapp:dev2  .
       docker image ls
       docker run -d -p 3000:3000 newscapp:dev2
       docker ps
